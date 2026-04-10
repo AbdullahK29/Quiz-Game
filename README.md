@@ -27,9 +27,13 @@ Test your knowledge and get instant feedback on your answers!
 ## 📂 Project Structure
 
 quiz-game/
+
 │── index.html
+
 │── style.css
+
 │── script.js
+
 │── README.md
 
 
